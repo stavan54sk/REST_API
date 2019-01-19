@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="a_basic.BasicMethods_ForTestApi">
+      <class name="b_covertingandparsingjson_GSON.ConvertingJsonObjectToJavaObject_Unmarshalling">
         <methods>
-          <include name="basicGet_ForTestApi"/>
+          <include name="jsonobject2javaobject"/>
         </methods>
-      </class> <!-- a_basic.BasicMethods_ForTestApi -->
+      </class> <!-- b_covertingandparsingjson_GSON.ConvertingJsonObjectToJavaObject_Unmarshalling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
