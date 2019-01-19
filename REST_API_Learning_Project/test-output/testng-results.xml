@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="143" started-at="2019-01-17T17:55:50Z" finished-at="2019-01-17T17:55:50Z">
+  <suite name="Default suite" duration-ms="165" started-at="2019-01-19T16:24:26Z" finished-at="2019-01-19T16:24:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="143" started-at="2019-01-17T17:55:50Z" finished-at="2019-01-17T17:55:50Z">
-      <class name="b_covertingandparsingjson_GSON.ConvertingJavaObjectToJsonObject_Marshalling">
-        <test-method status="PASS" signature="javaobject2jsonobject()[pri:0, instance:b_covertingandparsingjson_GSON.ConvertingJavaObjectToJsonObject_Marshalling@feb3fa]" name="javaobject2jsonobject" duration-ms="87" started-at="2019-01-17T17:55:50Z" finished-at="2019-01-17T17:55:50Z">
+    <test name="Default test" duration-ms="165" started-at="2019-01-19T16:24:26Z" finished-at="2019-01-19T16:24:27Z">
+      <class name="b_covertingandparsingjson_GSON.ConvertingJsonObjectToJavaObject_Unmarshalling">
+        <test-method status="PASS" signature="jsonobject2javaobject()[pri:0, instance:b_covertingandparsingjson_GSON.ConvertingJsonObjectToJavaObject_Unmarshalling@feb3fa]" name="jsonobject2javaobject" duration-ms="93" started-at="2019-01-19T16:24:26Z" finished-at="2019-01-19T16:24:27Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- javaobject2jsonobject -->
-      </class> <!-- b_covertingandparsingjson_GSON.ConvertingJavaObjectToJsonObject_Marshalling -->
+        </test-method> <!-- jsonobject2javaobject -->
+      </class> <!-- b_covertingandparsingjson_GSON.ConvertingJsonObjectToJavaObject_Unmarshalling -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
