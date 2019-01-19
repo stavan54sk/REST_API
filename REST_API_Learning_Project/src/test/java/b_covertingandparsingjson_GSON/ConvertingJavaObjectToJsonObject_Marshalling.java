@@ -2,11 +2,13 @@ package b_covertingandparsingjson_GSON;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-
 import org.testng.annotations.Test;
-
 import com.google.gson.Gson;
-
+/**
+@author Stavan S. Kodolikar
+*
+*
+*/
 public class ConvertingJavaObjectToJsonObject_Marshalling {
 
 	

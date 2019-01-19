@@ -1,16 +1,17 @@
 package a_basic;
 
 import org.testng.annotations.Test;
-
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
-
 import javax.swing.text.AbstractDocument.Content;
-
+/**
+@author Stavan S. Kodolikar
+*
+*
+*/
 public class BasicGet_ForGoogleMapApi {
 
 	// REQUEST YOU TO GENERATE API KEY BEFORE THE GET CALL WITH HELP OF BELOW LINK
