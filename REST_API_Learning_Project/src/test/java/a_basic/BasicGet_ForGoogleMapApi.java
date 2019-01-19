@@ -29,7 +29,7 @@ public class BasicGet_ForGoogleMapApi {
 				(Response) 
 				given().queryParameter("address", "1600+Amphitheatre+Parkway,+Mountain+View,+CA").and().
 // *******************PLEASE ENTER THE API KEY GENERATED HERE******************************
-						queryParameter("key", "AIzaSyD8R_SLm8IKupsS-98isSORkjGmcxvCIBc").and().
+						queryParameter("key", "PLEASE ENTER GENERATED KEY").and().
 
 						contentType(ContentType.JSON).
 
