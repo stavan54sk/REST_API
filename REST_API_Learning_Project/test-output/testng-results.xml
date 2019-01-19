@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143" started-at="2019-01-17T17:55:50Z" finished-at="2019-01-17T17:55:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143" started-at="2019-01-17T17:55:50Z" finished-at="2019-01-17T17:55:50Z">
+      <class name="b_covertingandparsingjson_GSON.ConvertingJavaObjectToJsonObject_Marshalling">
+        <test-method status="PASS" signature="javaobject2jsonobject()[pri:0, instance:b_covertingandparsingjson_GSON.ConvertingJavaObjectToJsonObject_Marshalling@feb3fa]" name="javaobject2jsonobject" duration-ms="87" started-at="2019-01-17T17:55:50Z" finished-at="2019-01-17T17:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javaobject2jsonobject -->
+      </class> <!-- b_covertingandparsingjson_GSON.ConvertingJavaObjectToJsonObject_Marshalling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
