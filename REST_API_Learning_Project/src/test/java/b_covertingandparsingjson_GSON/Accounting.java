@@ -1,9 +1,14 @@
-
+//THIS IS A POJO(PLAIN OLD JAVA OBJECT) CLASS,
+// obtained from Website http://www.jsonschema2pojo.org/
 package b_covertingandparsingjson_GSON;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-
+/**
+@author Stavan S. Kodolikar
+*
+*
+*/
 public class Accounting {
 
 @SerializedName("firstName")
