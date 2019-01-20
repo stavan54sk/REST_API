@@ -3,8 +3,6 @@ package b_covertingandparsingjson_GSON;
 import org.testng.annotations.Test;
 
 import com.google.gson.Gson;
-
-
 /**
  * @author Stavan S. Kodolikar
  *
