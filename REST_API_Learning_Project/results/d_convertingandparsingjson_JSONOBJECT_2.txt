@@ -1,0 +1,15 @@
+[RemoteTestNG] detected TestNG version 6.14.2
+{ppu=0.55, batters={batter=[{id=1001, type=Regular}, {id=5005, type=Sugar}, {id=5002, type=Glazed}]}, name=Cake, id=0001, topping=[{id=1001, type=Regular}, {id=5005, type=Sugar}, {id=5002, type=Glazed}], type=donut}
+PASSED: jsonobject2javaobject
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
