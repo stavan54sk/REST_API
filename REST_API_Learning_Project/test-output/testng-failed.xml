@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="d_convertingandparsingjson_JSONOBJECT.ConvertingJsonObjectToJavaObject_Unmarshalling">
+      <class name="e_convertingandparsingjson_JACKSON_OBJECTMAPPER.ConvertingJsonObjectToJavaObject_Unmarshalling">
         <methods>
           <include name="jsonobject2javaobject"/>
         </methods>
-      </class> <!-- d_convertingandparsingjson_JSONOBJECT.ConvertingJsonObjectToJavaObject_Unmarshalling -->
+      </class> <!-- e_convertingandparsingjson_JACKSON_OBJECTMAPPER.ConvertingJsonObjectToJavaObject_Unmarshalling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
