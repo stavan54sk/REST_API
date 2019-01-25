@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="900" started-at="2019-01-24T19:27:47Z" finished-at="2019-01-24T19:27:48Z">
+  <suite name="Default suite" duration-ms="530" started-at="2019-01-25T17:48:33Z" finished-at="2019-01-25T17:48:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="900" started-at="2019-01-24T19:27:47Z" finished-at="2019-01-24T19:27:48Z">
-      <class name="e_convertingandparsingjson_JACKSON_OBJECTMAPPER.ConvertingJsonObjectToJavaObject_Unmarshalling">
-        <test-method status="PASS" signature="jsonobject2javaobject()[pri:0, instance:e_convertingandparsingjson_JACKSON_OBJECTMAPPER.ConvertingJsonObjectToJavaObject_Unmarshalling@1057a39]" name="jsonobject2javaobject" duration-ms="832" started-at="2019-01-24T19:27:47Z" finished-at="2019-01-24T19:27:48Z">
+    <test name="Default test" duration-ms="530" started-at="2019-01-25T17:48:33Z" finished-at="2019-01-25T17:48:34Z">
+      <class name="e_convertingandparsingjson_JACKSON_OBJECTMAPPER.ConvertingJavaObjectToJsonObject_Marshalling">
+        <test-method status="PASS" signature="javaobject2jsonobject()[pri:0, instance:e_convertingandparsingjson_JACKSON_OBJECTMAPPER.ConvertingJavaObjectToJsonObject_Marshalling@1057a39]" name="javaobject2jsonobject" duration-ms="472" started-at="2019-01-25T17:48:33Z" finished-at="2019-01-25T17:48:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- jsonobject2javaobject -->
-      </class> <!-- e_convertingandparsingjson_JACKSON_OBJECTMAPPER.ConvertingJsonObjectToJavaObject_Unmarshalling -->
+        </test-method> <!-- javaobject2jsonobject -->
+      </class> <!-- e_convertingandparsingjson_JACKSON_OBJECTMAPPER.ConvertingJavaObjectToJsonObject_Marshalling -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
