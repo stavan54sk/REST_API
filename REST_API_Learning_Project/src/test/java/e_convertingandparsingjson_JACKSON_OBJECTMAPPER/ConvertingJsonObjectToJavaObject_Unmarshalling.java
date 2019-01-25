@@ -8,7 +8,11 @@ import org.testng.annotations.Test;
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-
+/**
+ * @author Stavan S. Kodolikar
+ *
+ *
+ */
 public class ConvertingJsonObjectToJavaObject_Unmarshalling {
 
 	@Test
